@@ -1,4 +1,5 @@
-- 👋 Hi, I’m a Code Cadet @<Academia de Código_>;
-- 🧚‍♀️ I’m interested in learning, testing and learning again;
+- 👋 Hi, I’m a Junior Full Stack Developer trained at <Academia de Código_>;
+- 🧚‍♀️ I’m interested in learning and creating people-friendly code;
+- 🌱 I'm familiar with Java and Javascript;
+- ⚡ On the path to being a React master;
 - 🌳 I have a passion for nature and seek its knowledge everyday;
-
